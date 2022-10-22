@@ -1,0 +1,12 @@
+{
+    "description": "Describe the use of this subdomain",
+    "repo": "https://github.com/bhanidudewshan/dimension.github.io",
+    "owner": {
+        "username": "bhanidudewshan",
+        "email": "contact@bhanidu.dev",
+        "twitter": "@elonemusk"
+    },
+    "record": {
+        "CNAME": "https://bhanidudewshan.github.io/dimension/"
+    }
+} 
